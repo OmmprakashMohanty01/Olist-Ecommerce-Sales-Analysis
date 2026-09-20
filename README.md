@@ -1,4 +1,4 @@
-# 🛒 Olist E-Commerce Analytics Pipeline
+# 🛒 Olist-Ecommerce-Sales-Analysis
 
 > An end-to-end data engineering and business intelligence pipeline on the Olist Brazilian E-Commerce public dataset — built with PostgreSQL, complex SQL analytics, and Tableau.
 
